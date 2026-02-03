@@ -1,0 +1,274 @@
+----------------------------------------------------------------
+Model: Qwen/Qwen3-ASR-0.6B
+Streaming: 1  chunk_s=3  stride_s=1  stitch_mode=left
+Batch: batch_size=64  max_inference_batch_size=32
+----------------------------------------------------------------
+Running VoxPopuli...
+Temp wav dir: /tmp/qwen_asr_eval_ebn2rqg1
+
+[DEBUG] REF: trade already we have in place strict rules on ivory trade in the european union imports of ivory into the eu and exports from the eu have been banned since 1975 in respect of asian elephants and since 1990 in respect of african elephants for ivory items that have been in europe for a long time domestic trade is strictly regulated with a system of certificates and demonstration of legal origin by traders the rules were tightened further in may 2017 with the adoption of a specific commission guidance document since then the export of old raw ivory from the eu has no longer been possible eu member states have unanimously supported this additional tightening of the rules and are following the guidance very closely thereby ensuring uniform application of the rules with this measure the risk that ivory exported from europe could fuel the demand in destination markets and indirectly also the poaching in africa has been significantly reduced but we did not stop there towards the
+[DEBUG] HYP: exports from the eu are banned since 1975 for asian elephants and since 1994 african elephants for ivory items that are been in europe for a long time domestic trade is strictly regulated with a system of certificates and demonstration of legal origin by traders the rules were tightened further in may 2017 with the adoption of a specific commission guidance document since then the export of old raw ivory from the eu is no longer possible eu member states have unanimously supported this additional tightening of the rules and are following the guidance very closely thereby ensuring uniform application of the rules with this measure the risk that ivory exports exported from europe could fuel the demand in destination markets and indirectly also the coaching in africa has been significant significantly reduced but we did not stop there towards the end of last year
+
+
+[DEBUG] REF: of respondents called for far reaching measures against domestic ivory trade those calls are often based on the precautionary principle rather than on any specific evidence for systematic links between the legal ivory trade in the eu and elephant poaching in africa on the other hand eu stakeholders such as makers of musical instruments or antique dealers used the consultation to highlight the impact of any additional restrictive measures on their sources of livelihood the commission is currently reflecting on the way forward and it will
+[DEBUG] HYP: called for farreaching measures against domestic ivory trade those costs are often based on the precautionary principle rather than on any specific evidence for systematic links between legal ivory trade in the eu and elephant poaching in africa on the other hand eu stakeholders such as makers of musical instruments or antique dealers use the consultation to highlight the impact of an additional restrictive measures on the sources of livelihood the commission is currently reflecting on the way forward and we report to the european parliament
+
+
+[DEBUG] REF: of course there is still a long way to go eliminating discards for example and there are times when the commission still seems to veer towards micro management i mention here article 47 of the control regulation at least in its original version i have often said though that the common fisheries policy is a bit like an oil tanker it takes a considerable time to turn round and i do believe that the control regulation will go a long way to achieving the necessary level playing field where enforcement and sanctions are concerned just as the development of regional advisory councils shall do much to bring improvements in other respects
+[DEBUG] HYP: of course there is still a long way to go eliminating discounts for example and there are times when the commission still seems to veer towards micro management i mention here article 40 of the control regulation at least in its original version have often said though that the common vision fisheries policy is a bit like an oil tank it takes a considerable time to turn round and i do believe that the control regulation will go a long way to achieving the necessary playing level playing field where enforcement and sanctions are concerned just as the development of regional advisory councils shall do so much to bring improvements in other respects
+
+
+[DEBUG] REF: cedefop is role is to contribute to the shaping and implementing of vt but also to shaping skills and qualification policies at union level the agency can do this by providing crucial evidence and services for policymaking and knowledge sharing among the union and national actors in particular to governments and social partners i believe that the revision of the function of this tripartite agency has been a very good one and i fully appreciate the agency is great work in supporting and developing inclusive and quality vt systems now we have to work together to put in place
+[DEBUG] HYP: the fob is role is to contribute to the shaping and implementing of vet but also shaping skills and qualification policies at the union level the agency can do this by providing crucial evidence and services for policy making and knowledge sharing amongst the union and national actors in particular to governments and social partners i believe that the revision of the functioning of this tripartite agency has been a very good one and i fully approve the agency is great work in supporting and developing of inclusive and quality vet system now we have to work together that we put in place
+
+
+[DEBUG] REF: mister president i must start by thanking the taoiseach for his continued efforts and commitment to preserve the peace process and to prevent the formation of barriers within the island of ireland on foot of the uk is decision to withdraw from the union however taoiseach i do not share your ideology in other ways so i must also follow that with a plea to you as taoiseach of ireland and as a member of the european political force whose world view and power has most considerably shaped both the emergence of the financial and economic crisis a decade ago and the measures taken in response to it since
+[DEBUG] HYP: thank you chair thijs i must start by thanking you for your continued efforts and commitment to preserve the peace process and to prevent the formation of barriers within the island of ireland on foot of the uk is decision to withdraw from the union however i do not share your ideology in other ways so i must also follow that with a plea to you as tisha kavani of ireland and as a member of the european political force whose worldview and power has most shaped both the emergence of the financial and economic crisis a decade ago and the measures taken in
+
+
+[DEBUG] REF: but can i remind you that an unemployment level of 111 next year is 27000000 unemployed people can i remind you that at the g 20 summit with some resistance from some european leaders you accepted that if there is a reason we are willing to do more to engage in having high economic growth president of the commission i have 27000000 good reasons to do more that is why i appeal to you today
+[DEBUG] HYP: but can i remind you that an unemployed of 1111 one next year is twentyseven 1000000 unemployed people and can i remind you that at the g 20 summit at the g 20 summit with some assistance from some european leaders you accepted that if there is a reason we are willing to do more to engage in having a high economic growth is the president of the commission i have 27000000 good reasons to do more that is why i have an appeal to you today
+
+
+[DEBUG] REF: none of the other players china the us or russia have that combination of distance and credibility and what is more there is a new momentum in eu chinese relations to create a new international architecture but it could spill over into security affairs in east asia too trump is belligerence and domestic weakness limit american engagement in the diplomatic track on north korea and this creates a vacuum
+[DEBUG] HYP: none of the other players china the us or russia have that combination of distance and credibility and what is more there is a new momentum in the eu euchina relations to create new international architecture but it could spill it over the security affairs in east asia too trump is belligerence and domestic weakness limits american engagement in the diplomatic track on north korea and this creates a vacuum
+
+
+[DEBUG] REF: but we need to go beyond that in the itre committee we are committed to developing better connectivity throughout europe better coordination of the radio spectrum for example which is very important and to stimulate investments in the high capacity networks across the continent so if you would like to fight for a more inclusive europe let us go forward even if it is a great success we should not stop
+[DEBUG] HYP: but we need to go that in each committee we are committed to developing better connectivity in entire europe better coordination of radio spectrum for example is very important and to stimulate investments in the highcapacity networks across the continent so if we would like to fight for more inclusive europe let us go forward even if it is a great success we should not stop
+
+
+[DEBUG] REF: i do hope that the age of geopolitical carve outs of countries and territories has forever come to an end in europe and then nobody can possibly oppose the free will of free people democratically represented from a more purely economic point of view the agreement and the dcfta bit in it opens a whole world of opportunity for the moldovan economy
+[DEBUG] HYP: i do hope that the age of geopolitical carveouts of countries and territories has forever come to an end in europe and then nobody can possibly oppose the free will of free people democratically represented from the more purely economic point of view the agreement and the dcf bit in it opens a whole world of opportunity for the moldovan economy
+
+
+[DEBUG] REF: in order to improve hiv tb and hcv prevention detection and treatment adherence the commission and the member states need to develop specific programs and financial support to strengthen work with communities and vulnerable people especially in developing countries without action and funding we cannot fight against these epidemics
+[DEBUG] HYP: in order to improve hiv tb and hcv prevention detection and treatment adherence european commission and the member states need to develop specific programs programs and financial support to strengthen work with communities and vulnerable people especially in developing countries without action and funding we cannot fight against these epidemics
+
+
+[DEBUG] REF: and why the member states and parliament must put the interests of the people 1st and not slip into party political infighting russia is pressure on our eastern partners and now on one of our member states must be resisted at all costs for as this process shows president putin is on the wrong side of history
+[DEBUG] HYP: the member states and parliament must keep up the interests of the people 1st and not slip into party political infighting russia is pressure on our eastern partners are now on one of our member states must be resisted at all costs for as this process shows president putin is on the wrong side of history
+
+
+[DEBUG] REF: of course it is okay to criticize any country and to wish anything but one should be fair and the eu is not fair in its policy towards israel 1st we should recognize that israel is our best friend and closest ally in the middle east 2nd
+[DEBUG] HYP: of course it is okay to criticize any and to wish anything but one should be fair and the eu is not fair regarding its policy towards israel 1st we should recognize that israel is our best friend and the closest ally in the middle east 2nd
+
+
+[DEBUG] REF: despite having worked together to try and agree on a resolution that would condemn violence by both communist or nazi extremists those groups were more concerned with childish political games than having a statement that this parliament ensures free speech but does not tolerate
+[DEBUG] HYP: despite having worked together to try and agree on a resolution that would condemn violence by both communist or nazi extremist those groups were more concerned with childish political games than having a state a statement that this parliament ensures free speech but does not tolerate tolerates
+
+
+[DEBUG] REF: 5 let me cite missus puri un women deputy executive director as a comprehensive inclusive and universal development framework for action the 2030 agenda must be our inspiration and civil society is called to harvest the gender equality compact across sustainable development human rights peace and security and the humanitarian commitments to advance its critical work
+[DEBUG] HYP: let me cite missus purie un women deputy executive director as a comprehensive inclusive and universal development framework for action the 2030 agenda must be our inspiration and civil society call to harvest the gender equality compact across sustainable development human rights peace and security and the humanitarian commitments to advance its critical work
+
+
+[DEBUG] REF: the entire european union and the un must establish and assert that the present situation can no longer be tolerated as an obstacle to our
+[DEBUG] HYP: the entire the european union and the eu un 0 must establish and assert that the present is situation can no longer be tolerated as an obstacle to our
+
+
+[DEBUG] REF: in fact the japanese government itself has rejected imports of norwegian whale meat after tests revealed pesticide levels double the amount japan permits in imports making the meat unfit for human consumption so that it simply has to be destroyed
+[DEBUG] HYP: in fact the japanese government itself has rejected imports of norwegian whale meat after tests revealed that pesticide levels double the amount japan permits on import imports was found and that is making it unfit for human consumption and that meat simply has to be destroyed
+
+
+[DEBUG] REF: it is no wonder so many drugs are needed when 300000000 animals a year live their whole lives in cages in the eu perhaps only feeling the sun on their backs for the 1st time on the brief journey to the slaughterhouse many never feeling grass beneath their feet in their short sad exploited lives
+[DEBUG] HYP: it is no wonder so many drugs are needed when 300000000 animals a year live their whole lives in cages in the eu perhaps only feeling the sun on their backs for the 1st time on the brief journey to the slaughterhouse many never feeling grasped beneath their feet in their short sad exploited lives
+
+
+[DEBUG] REF: the eu has an important role to play in addressing this issue as europe is currently a destination market for trafficking in transit to other regions as well as being for some species the source region for illegal trade the eu is a part of the problem but also a big part of the solution
+[DEBUG] HYP: the eu has an important role to play in addressing this issue as europe is currently a destination marketa hub for trafficking in transit to other regions as well as for some species source region for illegal trade the eu is a part of the problem but also a big part of the solution
+
+
+[DEBUG] REF: the situation in which social and economic risks are made worse by the absence of parents who cannot meet their children is needs for care protection and education may lead to an increase in vulnerability the primary responsibility for the development of the child rests with the parents
+[DEBUG] HYP: the situation in which the social and economic risks are made worse by the absence of parents who cannot meet their children is need for care protection and education may bring to increase vulnerability the primary responsibility for the development of the child rights child rests with the parents
+
+
+[DEBUG] REF: this means collecting comparable data on fire incidents in all member states using data to identify best practice in national fire safety regulations and sharing and spreading best practice to achieve a tangible improvement in fire safety in buildings the proposed actions are fully in line with the principle of subsidiarity
+[DEBUG] HYP: it means collecting comparable data for incidents in all member states also using data to identify the best practice in national fire safety regulations and also share and spread the best practice to achieve tangible improvement of fire safety in buildings proposed actions are fully in line with the principle of subsidiarity
+
+
+[DEBUG] REF: the greens believe in a change of policy addressing tax havens and tax evasion with binding measures implementing article 208 of the lisbon treaty on policy coherence by matching words with actions with coherent policies between trade agriculture and fishing
+[DEBUG] HYP: greens believe in a change of policy addressing tax havens tax evasion with binding measures implementing article 2 article 208 of the lisbon treaty on policy coherence by matching words with actions with coherent policies between trade agriculture and fishing
+
+
+[DEBUG] REF: we take money from one pocket to put in another pocket hoping we will not need them any more like the eur 2000000000 possible unused funds from the solidarity fund and the globalization fund we hope to reshuffle i am a former entrepreneur but also a social democrat and i can tell you for a fact that if you want fresh money you need to invest more in the things that can help your business grow
+[DEBUG] HYP: we take money from one pocket to put in another pocket hoping we will not need them anymore like the €2000000000 possible in use funds from the solidarity fund and the globalization fund we hope to reshuffle am a former entrepreneur but also a social democrat and i can tell you for a fact that if you want fresh money you need to invest more in the things that may help your business grow
+
+
+[DEBUG] REF: the results have been very very dangerous for the whole financial market but also personally for those people because there were huge numbers of personal tragedies of people who were evicted from their houses just for being incapable of paying their mortgages
+[DEBUG] HYP: the results have been very dangerous for the whole financial market but also personally for those people because there were huge numbers of persons personal tragedies of people who were evicted from their houses just for the incapability to pay their mortgages
+
+
+[DEBUG] REF: for example i think especially now with the current proposal of next mff bearing in mind that probably the share of financial instruments will be even bigger the european investment bank should guarantee a well balanced in geographical terms distribution of these financial instruments
+[DEBUG] HYP: for example i think especially now with the current proposal of next mff having in mind that probably the share of financial instruments will be even bigger european investment bank should guarantee a well balanced in geographical terms distribution of this financial instruments
+
+
+[DEBUG] REF: and as a president said i suppose that is the most difficult task because we can tell whatever we like about our good experiences about digital and so on but you have to convince the other 27 or 26 that it is that and very often you will hear what we have heard here 0 you are so small and bold you can do that but we are much bigger
+[DEBUG] HYP: and as the president says suppose that is most difficult task because we can tell whatever about our good experience experiences about digital and so on but you have to convince other 27 or 26 that it is that and very often you will listen to what we have heard here 0 you are so small and bold you can do that but we are much bigger
+
+
+[DEBUG] REF: madam president i would like to start by thanking you all for giving me the opportunity to make a statement on behalf of the commission on the european scheme for food distribution to the most deprived persons 1st i would like to emphasize the importance of this program for the most deprived citizens of europe
+[DEBUG] HYP: 1st i would like to thank you all for giving me the opportunity to make a statement on behalf of the commission on the european scheme for food distribution to the most deprived persons i would like to emphasize the importance of this program for the most deprived citizens of europe
+
+
+[DEBUG] REF: as europeans we are sadly jointly responsible every day for deforestation for an incredible loss of biodiversity for speeding up climate change and for harming the rights of indigenous people for example when we simply order a ham sandwich at the station and so maybe consume meat from animals
+[DEBUG] HYP: as europeans we are sadly jointly responsible every day for deforestation for an incredible loss of biodiversity speeding up climate change and for harming the rights of indigenous people for example when we simply order a ham sandwich at a station and so maybe consume meat from animals
+
+
+[DEBUG] REF: in addition eastern european migrants have paid 37 more in taxes than they have received in government spending and are 59 less likely to receive welfare benefits than uk nationals in the uk furthermore a recent report by birmingham university found that there was little or no evidence that eu migrants have had a negative impact on the employment of
+[DEBUG] HYP: in addition eastern european migrants have paid 37% more in taxes than they have received in government spending and are 59 less likely to receive welfare benefits than uk nationals in the uk furthermore a recent report by birmingham university found there is little or no evidence that eu migrants have had a negative impact on the employment of
+
+
+[DEBUG] REF: 96 amendment 1063 concerning a new line on the actual and desired state of the economic potential in regions outside the greek capital athens this amendment refers to a new preparatory action and not a pilot project
+[DEBUG] HYP: twentysix number one 1063 concerning a new line on the actual and desired state of the economic potential in regions outside the greek capital athens this amendment refers to a new preparatory action a statutory action and not a pilot project
+
+
+[DEBUG] REF: in the time when we are facing not only challenges of migration but also challenges of cross border crime terrorism and perhaps even hybrid threats the necessary information exchange is something which can additionally help our citizens and people to feel secure and to trust that our national governments
+[DEBUG] HYP: in the time when we are facing not only challenges of migration also challenges of crossborder crime terrorism and perhaps even hybrid threats the necessary information exchange is something which can additionally help for our citizens and people to feel secure and to trust that our national governments
+
+
+[DEBUG] REF: in this way we can deliver more security for our citizens in addition i cannot stress enough the importance of preserving transatlantic unity and the need to advance eu and nato cooperation as
+[DEBUG] HYP: this way we can deliver more security for our citizens in addition i cannot stress enough the importance of preserving transatlantic unity only to advance eu and nato co morocco operation as for
+
+
+[DEBUG] REF: let us remind ourselves that historically the crisis in 20072008 started from the debacle in the subprime markets of mortgage credits in the united states this topic i would say was a red line during all the years of the crisis
+[DEBUG] HYP: let us remind us historically the crisis in 20072008 started from the backle in the subprime market of mortgage credits in the united states and this topic i would say it was redlined during all the years of the crisis
+
+
+[DEBUG] REF: too often the region has been plagued by cycles of violence rising extremism and economic hardship at the same time the conditions for europeans and americans to work together in the search for peace in the middle east are probably
+[DEBUG] HYP: too often the region has been plagued by cycles of violence rise in extremism hardship the same time conditions for a european and american to work together the search for peace in the middle east are probably
+
+
+[DEBUG] REF: for those reasons the commission had no other option but to adopt final negative decisions for the gdynia and szczecin shipyards ordering recovery of the illegal and incompatible aid granted to the yards however in order to limit
+[DEBUG] HYP: for those reasons the commission had no other option but to adopt final negative decisions for the gdynia and chechen shipyards ordering recovery of the illegal and incompatible aid granted to the arts however in order to limit
+
+
+[DEBUG] REF: i would like to see our vice president flex our economic muscles and review the eu israel association agreement because it is not unreasonable for us to expect the people that we trade with to act responsibly proportionately
+[DEBUG] HYP: i would like to see our vice president review flex our economic muscles and review the eu israel association agreement because it is not unreasonable for us to expect that people that we trade with act responsibly proportionately
+
+
+[DEBUG] REF: 863895218339979989991016101810211022
+[DEBUG] HYP: 6 amendment 389 521800 thirtythree 900 ninetyseven 900 ninetyeight 900 ninetynine 1016 2018 18 10211000 twentytwo
+
+
+[DEBUG] REF: 2018 is the year where preparations for the european elections in 2019 will be in full swing and we should take this opportunity to inform citizens of their rights and the impact their vote carries for themselves and for europe as a whole
+[DEBUG] HYP: 2018 is the year where preparations for the european elections in 2019 will be in full swing and we should take this opportunity to inform citizens of their rights and the impact of their vote for themselves and for europe as a whole
+
+
+[DEBUG] REF: as we insist on restoring the sovereignty independence and territorial integrity of ukraine we must see beyond the legal and military consequences and must keep reminding europe and the world of the human suffering and injustice the local population must endure particularly the most daring who challenge and fight the illegal occupation
+[DEBUG] HYP: has we insisted on restoring the sovereignty independence and territorial integrity of ukraine we must see beyond legal and military consequences and must keep reminding europe and world of the human suffering and injustice the local population must endure particularly the most daring who challenge and fight the illegal occupation
+
+
+[DEBUG] REF: and national competition authorities but the report also says very clearly that this independence is strongly linked to the availability of human and financial resources however
+[DEBUG] HYP: and national competition authorities but also the report says very clearly that this independence is strongly linked to the availability of the human and financial resources however
+
+
+[DEBUG] REF: there are new trends in trafficking in human beings we have more victims in forced labor we have more victims coming from member states and in addition we have more children among the victims the estimated global share of child victims
+[DEBUG] HYP: there are new trends in trafficking in human beings we have more victims in forced labor we have more victims coming from member states and in addition we have more children among victims the estimate estimated global share of child victims
+
+
+[DEBUG] REF: 453 to 4546 unfortunately a very high number of health professionals are affected with 427 doctors and nurses sick and of those 230 have lost their lives trying to save the lives of others
+[DEBUG] HYP: 453 to 4006 and unfortunately a very high number of health professionals are affected 400 427 doctors and nurses sick and of those 200 lost their lives trying to save the lives of others
+
+
+[DEBUG] REF: secondly the european union should use the enhanced pca as a platform to promote improvement of relations between kazakhstan and other countries in the central asia region furthermore it is crucial that the pca contains provisions for interregional cooperation in the central asia region
+[DEBUG] HYP: secondly the european union should use union should use the enhanced pca as a platform to promote improvement of momentum of relations between kazakhstan and other countries of central asia region furthermore it is crucial that pca contains provisions for interregional cooperation in central asia middle asia region
+
+
+[DEBUG] REF: we need to raise the ambition level before 2020 and at the same time we have to create a credible pathway towards a low carbon planet we who are economically stronger must help those who are most vulnerable to climate change
+[DEBUG] HYP: we need to raise the ambition level before 2020 and at the same time we have to create a credible bath towards a low carbon planet we who are economically strongly must help those who are most vulnerable to climate change
+
+
+[DEBUG] REF: independently of the adoption of the ecolabel regulation the commission confirms that it intends to propose a regulation on ecolabelling of fishery products before the end of this year to be mainly based on criteria for sustainable fishing
+[DEBUG] HYP: independently of the adoption of the equitable regulation the commission confirms that it intends to propose a regulation on ecology ecolabeling on officially produced products before the end of this year to be mainly based on criteria for sustainable fishing
+
+
+[DEBUG] REF: it is important that we bear in mind that this epa is a stepping stone agreement which means that it is only a temporary solution in order for trade liberation to have a substantial positive effect on the whole region it is essential that ecowas sign a full epa
+[DEBUG] HYP: it is important we keep in mind that ipa is a stepping stone agreement which means it is only a temporary agreement a temporary solution in order for the trade liberalization to have a substantial positive effect on the whole region it is essential that ecova signs a full eba
+
+
+[DEBUG] REF: in fact the system of the protection of geographical indications plays a huge role in the eu is trade policy europe not only succeeds in obtaining protection for its quality labels on external markets but also encourages 3rd countries to set up equivalent systems and this is a very important issue for us
+[DEBUG] HYP: in fact the system of the protection of geographical indications plays a huge role in the eu is trade policy europe not only succeeds in obtaining protection for its quality label labels on external markets but also encourage 3rd countries to set up equivalent systems and this is a very important issue for us
+
+
+[DEBUG] REF: parliament is also appealing to national lawmakers to distinguish clearly higher risk or lower liquidity assets from those assets which are eligible for ucits type covered bonds leaving sme credits infrastructure investments and consumer credits to a new instrument which as i have said would be called european secured notes
+[DEBUG] HYP: parliament also appeals to national lawmakers to clearly distinguish higher risk or lower liquidity assets from those assets which are eligible for use type covered bonds leaving sme credits infrastructure and consumer credits to a new instrument which as i have said would be called european secured notes
+
+
+[DEBUG] REF: i am sure that here in the plenary we will also gain a big majority for this report and that soon we will be able to start our trialogue negotiations it is vital for the eu to have the entire debate on this file completed and the regulation implemented as soon as possible
+[DEBUG] HYP: i am sure that here in the plenary we will also gain a big majority for this report and that soon we will be able to start our dialog negotiations it is vital for the eu to have the entire debate on this file completed and they will regulation implemented as soon as possible
+
+
+[DEBUG] REF: to avoid any suspicion that the council in this situation would take the adoption of amending budget no 6 as an argument for delaying and not adopting amending budget no 8 my group has tabled an amendment in order to link the adoption of amending budget no 6 with amending budget no
+[DEBUG] HYP: to avoid any suspicion that the counts in this situation would take the adoption of amending by the 6th as an argument for delaying or not adopting a money budget 8 my group has tabled an amendment in order to link the adoption of amending budget 6 with amending budget 8
+
+
+[DEBUG] REF: we think that the environmental effect of products must be a very important issue in the eu and the whole idea of an ecolabel gives a very useful orientation for consumers of course the ecolabel should be given to the most environmentally friendly products and the information should be clear and correct
+[DEBUG] HYP: we are seeing that the environmental effect of products must be a very important issue in the eu and the whole idea of the equal labor gives a very useful orientation for the consumers of course the equal labor should give to the most environmental friendly products the information should be clear and correct
+
+
+[DEBUG] REF: instead you represent the 23000000 people who have signed the european citizens initiative to stop ttip it is the 1500 people who have contributed to the public consultation on isds and who were 97 negative on the whole idea
+[DEBUG] HYP: instead whom you represent are 23000000 people who have signed the european citizens initiative to stop ttip is to 150000 people who have contributed to the public consultation on isds and who were 97 negative on the whole idea
+
+
+[DEBUG] REF: it is difficult not to feel a sense of double standards or inequality in the european union let us talk about equality when it comes to accession to the schengen area or double standards concerning the composition of food products in different member states
+[DEBUG] HYP: it is difficult to not feel a sense of double standards or inequality in the european union let us talk about equality when it comes to the access to the shenzhen area or standards concerning the composition of food products in different member states
+
+
+[DEBUG] REF: the eu is intention is to help the yemeni population and this is why we need to support the efforts in identifying a political solution as soon as possible using dialog and negotiations we need to understand that all parties in the conflict must comply with their obligations under international law
+[DEBUG] HYP: use intentions are to help the yemeni population and this is why we need to support the efforts in identifying political solution as soon as possible using dialog and negotiations we need to understand that all parties in the conflict must comply with their obligation under the international law
+
+
+[DEBUG] REF: the report contains some paragraphs on the ongoing interinstitutional negotiations on improved practical arrangements for cooperation and information sharing regarding the negotiation and conclusion of international agreements
+[DEBUG] HYP: the report contains some paragraphs on the ongoing interinstitutional negotiation on improved practical arrangements for cooperation and information sharing regarding the negotiations negotiation and conclusion of international agreements
+
+
+[DEBUG] REF: you think that democracy works only in a nation state but you know the european union for decades has now has proved that there is a very good combination of local regional national and supranational democracy and that is what i will defend because that is the future
+[DEBUG] HYP: only can think that democracy works in a nation state but you know the european union for decades now proved that there is a very good combination of local regional national and supranational democracy and that is which i will defend because that is the future
+
+
+[DEBUG] REF: i would urge you to become ambassadors of the year by making its ideas and activities widely known amongst european citizens and participating in events be it at european national or local level
+[DEBUG] HYP: i would urge you to become ambassadors of the year make its ideas and activities widely known amongst european citizens and participating in events be it european national or local level
+
+
+[DEBUG] REF: i therefore commend the effort shown by this parliament to encourage understanding and rebuild trust and confidence in these instruments i am pleased that we have managed to bring this report closer to international standards and ensure that the eu is not placed at a competitive disadvantage globally
+[DEBUG] HYP: i therefore commend the effort shown by this parliament to encourage understanding and rebuild trust and confidence in these instruments i am pleased am pleased that we have managed to bring this report closer to international standards and ensure that the eu is not placed at a competitive disadvantage globally
+
+
+[DEBUG] REF: related to this area the eu has many more topics on its agenda than just trade defense and security cooperation the fight against terrorism and regional cooperation for the support and stabilization of surrounding regions especially the middle east and sub saharan africa
+[DEBUG] HYP: related to this area the eu has much more topics on its agenda than just trade defense and security cooperation the fight against terrorism and regional cooperation for the support and stabilization of serangoon surrounding regions especially the middle east and the subsaharan africa
+
+
+[DEBUG] REF: the world agreed to save its one and only home doing justice to its traditional name gifts from god the marshall islands took action becoming one of the 1st to ratify the paris agreement
+[DEBUG] HYP: the world agreed to save its one and only home doing justice to its traditional name gifts from god the marshall islands took action becoming one of the 1st to ratify the paris agreement
+
+
+[DEBUG] REF: i am very proud of the efforts of the uk and france in sierra leone and in guinea as well as germany and others that are stepping up not just funding but bringing teams and beds so we can fight ebola together
+[DEBUG] HYP: i am very proud of the efforts of the uk and france in sierra leone and in guinea as well as germany and others that are stepping up not just funding but bringing teams and bets so we can fight ebola together
+
+
+[DEBUG] REF: if we are talking about the next financial framework it is very necessary to understand how we structure the added value because if you do not analyze fulfillment of the budget in this financial perspective we will not get a good result in the next one
+[DEBUG] HYP: if we are talking about the next financial framework to understand how we structure the added value because if you will not analyze analyze fulfillment of the budget in this financial perspective we will not get a good result in the next one
+
+
+[DEBUG] REF: eu aid worth 1000000s of euros destroyed in full impunity and no adequate labeling of settlement products the village of khan al ahmar that i and countless friends of the bedouins have visited is about to be destroyed
+[DEBUG] HYP: an eu aid worth 1000000s of euros destroyed in full impunity and no adequate label labeling of settlement products the village of ovkan kanalmakh that i and countless friends of the bedouins have visited is about to be destroyed
+
+
+[DEBUG] REF: concerning budget consolidation it is also important that the commission stop any proposal for eu legislation which means additional bureaucratic burdens and costs for member states for regions and local communities and the legislator has to do likewise
+[DEBUG] HYP: talking about budget consolidation it is also important that the commission stops any proposal on the eu yet which means additional bureaucratic burden and costs for member states for regions and local communities and the legislature the legislator has to do it in the
+
+
+[DEBUG] REF: many times in this place i have said on the record that the cfp has been a disaster for scotland and many times i have said in this place on the record that one of the principal reasons for that has been the failure of the uk government successive uk governments
+[DEBUG] HYP: la sua risposta onorevole prego many times in this place i have said on the record that the cfp has been a disaster for scotland many times i have said in this place on the record that one of the principal reasons for that has been
+
+
+[DEBUG] REF: and parents in fulfilling their responsibilities are entitled to receive the necessary support from the community and the local authorities whose efforts to meet their obligations unfortunately often fail
+[DEBUG] HYP: and parents in fulfilling their responsibilities are entitled to receive the necessary support from the community and the local authorities whose efforts to meet their obligation unfortunately of them fail
+
+
+[DEBUG] REF: in fact the 2 amendments are in no way mutually exclusive and can therefore definitely both be voted on i therefore urge you to apply rule 161 of the rules of procedure and also allow a vote on amendment
+[DEBUG] HYP: in fact the 2 amendments are in no way mutually exclusive and can therefore definitely both be voted therefore i urge you president to apply rule one 161 of the rules of procedure and a law also avoid await an amendment
+
+
+[DEBUG] REF: what were bafin employees thinking when they bought shares from the company that they are supposed to supervise how is it possible that bafin let the wirecard management get away with 1000000s of euros just before bankruptcy was filed
+[DEBUG] HYP: what were baffin employees thinking when they bought shares from the company that they supposed to supervise how is it possible that bafin let wirecard management get away with 1000000s of euros just before bankruptcy was filed
